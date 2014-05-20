@@ -1,0 +1,4 @@
+127.0.0.1
+personnes descmc titre resume modelepneu legende sommaire metier performance
+500       500    500   100    500        100     100      500    500
+0         0      0     100    0          100     100      0      0
